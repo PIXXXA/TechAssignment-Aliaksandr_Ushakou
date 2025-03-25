@@ -1,11 +1,11 @@
-package wallee.tech.ui_kit.ui.theme
+package wallee.tech.ui_kit.theme
 
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 
-object WalleeTextStyle{
+object WalleeTextStyle {
     val text4Xl = TextStyle(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Normal,

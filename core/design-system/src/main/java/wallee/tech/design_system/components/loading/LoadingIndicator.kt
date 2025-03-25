@@ -7,7 +7,7 @@ import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import wallee.tech.ui_kit.ui.theme.WalleeColors
+import wallee.tech.ui_kit.theme.WalleeColors
 
 @Composable
 fun LoadingIndicator() {

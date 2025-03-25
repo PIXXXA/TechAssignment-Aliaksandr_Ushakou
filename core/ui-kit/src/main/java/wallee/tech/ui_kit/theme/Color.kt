@@ -1,8 +1,8 @@
-package wallee.tech.ui_kit.ui.theme
+package wallee.tech.ui_kit.theme
 
 import androidx.compose.ui.graphics.Color
 
-object WalleeColors{
+object WalleeColors {
     val White = Color(0xFFFFFFFF)
     val Primary = Color(0xFF363636)
     val Secondary = Color(0xFFF6F6F6)

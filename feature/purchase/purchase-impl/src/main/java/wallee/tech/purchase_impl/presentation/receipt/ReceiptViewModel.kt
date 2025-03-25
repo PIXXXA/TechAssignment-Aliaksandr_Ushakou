@@ -1,14 +1,11 @@
 package wallee.tech.purchase_impl.presentation.receipt
 
 import androidx.lifecycle.viewModelScope
-import androidx.navigation.NavController
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import wallee.tech.presentation.base.BaseIntentViewModel
 import wallee.tech.purchase_impl.domain.model.PurchaseTransactionAmountDomainModel
-import wallee.tech.purchase_impl.domain.model.PurchaseTransactionDomainModel
 import wallee.tech.purchase_impl.domain.repository.PurchaseRepository
-import wallee.tech.purchase_impl.navigation.Screen
 
 internal class ReceiptViewModel(
     private val amount: String,

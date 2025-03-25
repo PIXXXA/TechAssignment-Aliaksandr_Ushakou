@@ -1,4 +1,4 @@
-package wallee.tech.ui_kit.ui.dimens
+package wallee.tech.ui_kit.dimens
 
 import androidx.compose.ui.unit.dp
 

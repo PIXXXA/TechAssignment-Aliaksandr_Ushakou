@@ -1,4 +1,4 @@
-package wallee.tech.ui_kit.ui.theme
+package wallee.tech.ui_kit.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.lightColorScheme

@@ -15,6 +15,7 @@ import wallee.tech.purchase_impl.presentation.receipt.ReceiptViewModel
 val purchaseModule by lazy {
     module {
         singleOf(::PurchaseRepositoryImpl).bind<PurchaseRepository>()
+
         single { createWebService<PurchaseApi>(get()) }
 
         viewModel { (navController: NavController) ->

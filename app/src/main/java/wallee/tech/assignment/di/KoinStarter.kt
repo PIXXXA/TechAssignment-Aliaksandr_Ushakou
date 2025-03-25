@@ -9,7 +9,7 @@ import org.koin.core.logger.Level
 import wallee.tech.network.di.networkModule
 import wallee.tech.purchase_impl.di.purchaseModule
 
-fun initKoin(context: Context){
+fun initKoin(context: Context) {
     startKoin {
         androidLogger(Level.ERROR)
         androidContext(context)

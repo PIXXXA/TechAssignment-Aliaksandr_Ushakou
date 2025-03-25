@@ -11,8 +11,8 @@ internal class PurchaseRepositoryImpl(
 
     override suspend fun getTransactionReceipt(): PurchaseTransactionDomainModel {
         val response = purchaseApi.getTransactionReceipt()
-        return if (response.isSuccessful) {
+        return if (response.isSuccessful)
             response.body()?.toDomainModel() ?: PurchaseTransactionDomainModel()
-        } else { PurchaseTransactionDomainModel() }
+        else PurchaseTransactionDomainModel()
     }
 }
