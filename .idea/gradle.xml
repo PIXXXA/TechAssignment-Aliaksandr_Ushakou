@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/feature" />
             <option value="$PROJECT_DIR$/feature/purchase" />
             <option value="$PROJECT_DIR$/feature/purchase/purchase-api" />
+            <option value="$PROJECT_DIR$/feature/purchase/purchase-impl" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
