@@ -1,0 +1,11 @@
+<resources>
+    <string name="purchase_title">Purchase</string>
+    <string name="purchase_subtitle">Please enter amount.</string>
+
+    <string name="transaction_title">Receipt</string>
+    <string name="transaction_id_title">The unique ID for the transaction: </string>
+    <string name="transaction_status_title">The status of the transaction:</string>
+    <string name="transaction_amount_title">Final Amount: </string>
+    <string name="transaction_tax_title">Tax: </string>
+    <string name="transaction_date_title">Date: </string>
+</resources>
