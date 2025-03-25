@@ -23,11 +23,11 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import wallee.tech.design_system.components.loading.LoadingIndicator
+import wallee.tech.ui_kit.colors.WalleeColors
 import wallee.tech.ui_kit.dimens.size_16
 import wallee.tech.ui_kit.dimens.size_24
-import wallee.tech.ui_kit.theme.WalleeColors
+import wallee.tech.ui_kit.styles.WalleeTextStyle
 import wallee.tech.ui_kit.theme.WalleeMainTheme
-import wallee.tech.ui_kit.theme.WalleeTextStyle
 import wallee.tech.purchase_impl.R as Purchase
 import wallee.tech.ui_kit.R as UiKit
 

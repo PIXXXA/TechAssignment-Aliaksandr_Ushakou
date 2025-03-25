@@ -1,4 +1,4 @@
-package wallee.tech.ui_kit.theme
+package wallee.tech.ui_kit.colors
 
 import androidx.compose.ui.graphics.Color
 

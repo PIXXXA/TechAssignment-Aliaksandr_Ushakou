@@ -1,4 +1,4 @@
-package wallee.tech.ui_kit.theme
+package wallee.tech.ui_kit.styles
 
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily

@@ -25,13 +25,13 @@ import androidx.compose.ui.tooling.preview.Preview
 import wallee.tech.design_system.components.keyboard.DigitsKeyboard
 import wallee.tech.presentation.extension.convertToAmountFormat
 import wallee.tech.purchase_impl.R
+import wallee.tech.ui_kit.colors.WalleeColors
 import wallee.tech.ui_kit.dimens.size_16
 import wallee.tech.ui_kit.dimens.size_2
 import wallee.tech.ui_kit.dimens.size_64
 import wallee.tech.ui_kit.dimens.size_8
-import wallee.tech.ui_kit.theme.WalleeColors
+import wallee.tech.ui_kit.styles.WalleeTextStyle
 import wallee.tech.ui_kit.theme.WalleeMainTheme
-import wallee.tech.ui_kit.theme.WalleeTextStyle
 
 @Composable
 internal fun PurchaseScreen(

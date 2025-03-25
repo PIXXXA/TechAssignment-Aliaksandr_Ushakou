@@ -19,9 +19,9 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import wallee.tech.presentation.EMPTY_STRING
 import wallee.tech.presentation.GRID_CELLS_3
+import wallee.tech.ui_kit.colors.WalleeColors
 import wallee.tech.ui_kit.dimens.size_16
-import wallee.tech.ui_kit.theme.WalleeColors
-import wallee.tech.ui_kit.theme.WalleeTextStyle
+import wallee.tech.ui_kit.styles.WalleeTextStyle
 import wallee.tech.design_system.R as DesignSystem
 import wallee.tech.ui_kit.R as UiKit
 
