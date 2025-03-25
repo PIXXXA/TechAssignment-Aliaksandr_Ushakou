@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "TechAssignment-Aliaksandr_Ushakou"
 include(":app")
- 
+include(":core")
+include(":core:ui-kit")
+include(":core:presentation")

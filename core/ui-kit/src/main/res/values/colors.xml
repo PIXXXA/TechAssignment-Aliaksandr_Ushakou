@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FF363636</color>
+    <color name="secondary">#FFF6F6F6</color>
+    <color name="tertiary">#FF666666</color>
+    <color name="submit">#FF0DA69C</color>
+    <color name="ghost">#1AFFFFFF</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WalleeTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorOnPrimary">@color/secondary</item>
+        <item name="colorSecondary">@color/tertiary</item>
+        <item name="colorSecondaryVariant">@color/submit</item>
+        <item name="colorOnSecondary">@color/ghost</item>
+    </style>
+</resources>
