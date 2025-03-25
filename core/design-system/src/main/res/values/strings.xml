@@ -1,0 +1,13 @@
+<resources>
+    <string name="ok_title">OK</string>
+    <string name="zero_title">0</string>
+    <string name="one_title">1</string>
+    <string name="two_title">2</string>
+    <string name="three_title">3</string>
+    <string name="four_title">4</string>
+    <string name="five_title">5</string>
+    <string name="six_title">6</string>
+    <string name="seven_title">7</string>
+    <string name="eight_title">8</string>
+    <string name="nine_title">9</string>
+</resources>
